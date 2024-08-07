@@ -1,0 +1,36 @@
+body {
+    background-color: #121212; /* Dark background color */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.logo {
+    /* Add styles for the logo, such as size, margin, etc. */
+}
+
+.app-support {
+    /* Add styles for the app support text, such as color, font size, etc. */
+}
+
+.password-input {
+    /* Add styles for the password input, such as width, padding, border, etc. */
+}
+
+.save-password {
+    /* Add styles for the save password label, such as font size, color, etc. */
+}
+
+.get-password, .login-button {
+    /* Add styles for the buttons, such as background color, color, padding, border, etc. */
+}
+
+.creator {
+    /* Add styles for the creator text, such as font size, color, position, etc. */
+}
